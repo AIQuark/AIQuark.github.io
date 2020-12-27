@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://coding-pages-bucket-3504394-8167143-9023-435530-1300947801.cos-website.ap-hongkong.myqcloud.com</id>
+    <title>Photon</title>
+    <updated>2020-12-27T15:13:45.813Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://coding-pages-bucket-3504394-8167143-9023-435530-1300947801.cos-website.ap-hongkong.myqcloud.com"/>
+    <link rel="self" href="https://coding-pages-bucket-3504394-8167143-9023-435530-1300947801.cos-website.ap-hongkong.myqcloud.com/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://coding-pages-bucket-3504394-8167143-9023-435530-1300947801.cos-website.ap-hongkong.myqcloud.com/images/avatar.png</logo>
+    <icon>https://coding-pages-bucket-3504394-8167143-9023-435530-1300947801.cos-website.ap-hongkong.myqcloud.com/favicon.ico</icon>
+    <rights>All rights reserved 2020, Photon</rights>
+</feed>
